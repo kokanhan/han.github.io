@@ -15,9 +15,11 @@ Writing unit tests and fixing bugs for game in Java
 [Link](https://github.com/OSUCS362/BatBat-Game)
 
 ## Software Engineering I
+Developing Aces up game in a team using Java.
 [Link](https://github.com/cs361f2019-osu/Fall2019_project-no-fear)
 
 ## Geospatial Analysis for Disaster Planning
+Build a geospatial analysis tool provides emergency managers with a systems level view of the impact of disasters on lifeline networks.
 [Link](https://github.com/bullocgr/capstone)
 
 
