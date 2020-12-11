@@ -11,7 +11,7 @@ Han Jiang · Oregon State University · Corvallis, OR 97330 ·  jianghan@oregons
 # Projects
 
 ## Software Engineering II
-Writing unit tests and fixing bugs for game in Java
+Writing unit tests and fixing bugs for game in Java.
 [Link](https://github.com/OSUCS362/BatBat-Game)
 
 ## Software Engineering I
