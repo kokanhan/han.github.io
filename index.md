@@ -10,6 +10,14 @@ Passionate Computer Science major student currently attending Oregon State Unive
 ### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Software Engineering II
+Writing unit tests and fixing bugs for game in Java
+
+## Software Engineering I
+Developing Aces up game in a team using Java.
+
+## Geospatial Analysis for Disaster Planning
+Build a geospatial analysis tool provides emergency managers with a systems level view of the impact of disasters on lifeline networks.
 
 ```markdown
 Syntax highlighted code block
