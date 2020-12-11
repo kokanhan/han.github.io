@@ -8,35 +8,16 @@ Han Jiang · Oregon State University · Corvallis, OR 97330 ·  jianghan@oregons
 
 
 
-### Projects
+# Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ## Software Engineering II
 Writing unit tests and fixing bugs for game in Java
+[Link](https://github.com/OSUCS362/BatBat-Game)
 
 ## Software Engineering I
-Developing Aces up game in a team using Java.
+[Link](https://github.com/cs361f2019-osu/Fall2019_project-no-fear)
 
 ## Geospatial Analysis for Disaster Planning
-Build a geospatial analysis tool provides emergency managers with a systems level view of the impact of disasters on lifeline networks.
+[Link](https://github.com/bullocgr/capstone)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
