@@ -1,8 +1,10 @@
 ## Introduction about me
 
-You can use the [editor on GitHub](https://github.com/kokanhan/han.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Oregon State University · Corvallis, OR 97330 ·  jianghan@oregonstate.edu
+Passionate Computer Science major student currently attending Oregon State University. Aiming to use proven programming skills to seek an internship as a software engineer, currently doing Capstone. Following Dr.Joseph Louis's team to build a geospatial analysis tool provides emergency managers with a systems level view of the impact of disasters on lifeline networks.
+[My Linkedin](https://www.linkedin.com/in/han-jiang-89b782157/)
+[My Github](https://github.com/HanJiang915)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
